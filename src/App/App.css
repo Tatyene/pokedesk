@@ -1,0 +1,14 @@
+header {
+    background-color: blueviolet;
+    max-height: 90px;
+}
+
+img {
+    height: 80px;
+    width: 210px;
+}
+
+.image-header {
+    display: flex;
+    justify-content: center;
+}
